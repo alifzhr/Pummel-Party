@@ -28,14 +28,14 @@
 <img width="1109" height="821" alt="Screenshot 2026-06-27 202109" src="https://github.com/user-attachments/assets/3a38e32d-7fd7-4cd9-8fa3-26078afb93fc" />
 <img width="1200" height="934" alt="Screenshot 2026-06-27 202128" src="https://github.com/user-attachments/assets/16bc7c7a-eff9-48b6-85a1-8cb4e94cb210" />
 
-9.5 Another choice is to just open up your windows notifications and just click on the Windows Security notification to straight up open 'Windows Security' where you could find 'Protection History'.
-10. There are two things that must be done here:
+10. Another choice is to just open up your windows notifications and just click on the Windows Security notification to straight up open 'Windows Security' where you could find 'Protection History'.
+11. There are two things that must be done here:
   -  If there is a 'Threat Blocked', click on it, go to Actions, allow Windows Security, and then select 'Allow'.
   -  If there is a 'Threat Quarantined', click on it, go to Actions, allow Windows Security, and then select 'Restore'.
 <img width="1202" height="933" alt="Screenshot 2026-06-27 202137" src="https://github.com/user-attachments/assets/f10ffb0d-13b3-4bff-a6da-13443e538f85" />
 
-11. After that, rerun the 'Run me!.bat' file again.
-12. If no other errors pop up, the game should load up. (It might take some time to load up)
-13. In the meantime, a website and a 'fix.me' pop up would randomly appear. You can just ignore this and close them.
+12. After that, rerun the 'Run me!.bat' file again.
+13. If no other errors pop up, the game should load up. (It might take some time to load up)
+14. In the meantime, a website and a 'fix.me' pop up would randomly appear. You can just ignore this and close them.
 
 ## The game should be running if all the steps above are followed correctly.
